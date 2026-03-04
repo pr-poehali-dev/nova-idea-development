@@ -6,10 +6,10 @@ export default function FooterSection() {
         <div className="h-auto p-4 md:p-8 flex flex-col justify-start items-start gap-8">
           {/* Бренд */}
           <div className="self-stretch flex justify-start items-center gap-3">
-            <div className="text-center text-[#49423D] text-xl font-semibold leading-4 font-sans">Бриллиант</div>
+            <div className="text-center text-[#49423D] text-xl font-semibold leading-4 font-sans">Правоведение</div>
           </div>
           <div className="text-[rgba(73,66,61,0.90)] text-sm font-medium leading-[18px] font-sans">
-            Биллинг без усилий
+            Права. Обязанности. Ответственность.
           </div>
 
           {/* Социальные сети */}
@@ -57,67 +57,67 @@ export default function FooterSection() {
           {/* Колонка Продукт */}
           <div className="flex flex-col justify-start items-start gap-3 flex-1 min-w-[120px]">
             <div className="self-stretch text-[rgba(73,66,61,0.50)] text-sm font-medium leading-5 font-sans">
-              Продукт
+              Разделы
             </div>
             <div className="flex flex-col justify-end items-start gap-2">
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Возможности
+                Права медработников
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Тарифы
+                Обязанности
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Интеграции
+                Ответственность
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Превью в реальном времени
+                Врачебная тайна
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Мульти-агентное кодирование
+                ФЗ № 323
               </div>
             </div>
           </div>
 
           {/* Колонка Компания */}
           <div className="flex flex-col justify-start items-start gap-3 flex-1 min-w-[120px]">
-            <div className="text-[rgba(73,66,61,0.50)] text-sm font-medium leading-5 font-sans">Компания</div>
+            <div className="text-[rgba(73,66,61,0.50)] text-sm font-medium leading-5 font-sans">Законодательство</div>
             <div className="flex flex-col justify-center items-start gap-2">
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                О нас
+                ФЗ № 323 «Об охране здоровья»
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Наша команда
+                Трудовой кодекс РФ
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Карьера
+                Уголовный кодекс РФ
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Бренд
+                Гражданский кодекс РФ
               </div>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Контакты
+                Конституция РФ (ст. 41)
               </div>
             </div>
           </div>
 
           {/* Колонка Ресурсы */}
           <div className="flex flex-col justify-start items-start gap-3 flex-1 min-w-[120px]">
-            <div className="text-[rgba(73,66,61,0.50)] text-sm font-medium leading-5 font-sans">Ресурсы</div>
+            <div className="text-[rgba(73,66,61,0.50)] text-sm font-medium leading-5 font-sans">Литература</div>
             <div className="flex flex-col justify-center items-center gap-2">
               <div className="self-stretch text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Условия использования
+                Леонтьев О.В. (2010)
               </div>
               <div className="self-stretch text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                API документация
+                Котова К.А. (2023)
               </div>
               <div className="self-stretch text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Документация
+                Кленкина О.В. (2022)
               </div>
               <div className="self-stretch text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Сообщество
+                Гайнутдинова Е.А. (2022)
               </div>
               <div className="self-stretch text-[#49423D] text-sm font-normal leading-5 font-sans cursor-pointer hover:text-[#37322F] transition-colors">
-                Поддержка
+                Курлыков О.Л. (2024)
               </div>
             </div>
           </div>

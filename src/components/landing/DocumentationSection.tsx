@@ -22,18 +22,18 @@ export default function DocumentationSection() {
 
   const cards = [
     {
-      title: "Планируйте расписание",
-      description: "Исследуйте данные, создавайте дашборды,\nобъединяйте команду.",
+      title: "Права медицинских работников",
+      description: "Безопасный труд, профессиональная переподготовка,\nзащита чести и страхование ответственности.",
       image: "/modern-dashboard-interface-with-data-visualization.jpg",
     },
     {
-      title: "От данных к инсайтам за минуты",
-      description: "Превращайте сырые данные в действенные выводы\nс помощью мощных инструментов аналитики.",
+      title: "Обязанности медработника",
+      description: "Соблюдение стандартов помощи, врачебная тайна,\nинформирование пациента и экстренная помощь.",
       image: "/analytics-dashboard.png",
     },
     {
-      title: "Работайте вместе без усилий",
-      description: "Работайте в режиме реального времени с командой\nи делитесь инсайтами мгновенно.",
+      title: "Виды юридической ответственности",
+      description: "Гражданская, дисциплинарная, административная\nи уголовная ответственность медработника.",
       image: "/team-collaboration-interface-with-shared-workspace.jpg",
     },
   ];
@@ -61,15 +61,15 @@ export default function DocumentationSection() {
             icon={
               <div className="w-[10.50px] h-[10.50px] outline outline-[1.17px] outline-[#37322F] outline-offset-[-0.58px] rounded-full"></div>
             }
-            text="Возможности платформы"
+            text="Разделы темы"
           />
           <div className="self-stretch text-center flex justify-center flex-col text-[#49423D] text-3xl md:text-5xl font-semibold leading-tight md:leading-[60px] font-sans tracking-tight">
-            Оптимизируйте бизнес-процессы
+            Структура правового статуса
           </div>
           <div className="self-stretch text-center text-[#605A57] text-base font-normal leading-7 font-sans">
-            Управляйте расписанием, анализируйте данные и работайте с командой
+            Права, обязанности и ответственность медработника —
             <br />
-            на одной мощной платформе.
+            три взаимосвязанных блока единого правового статуса.
           </div>
         </div>
       </div>

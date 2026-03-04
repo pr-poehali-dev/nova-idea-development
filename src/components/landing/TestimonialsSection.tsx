@@ -7,27 +7,24 @@ export default function TestimonialsSection() {
   const testimonials = [
     {
       quote:
-        "За несколько минут мы превратили данные в практические выводы. Процесс был бесшовным и невероятно эффективным!",
-      name: "Анна Петрова",
-      company: "Сооснователь, TechStart",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20Sep%2011%2C%202025%2C%2011_35_19%20AM-z4zSRLsbOQDp7MJS1t8EXmGNB6Al9Z.png",
+        "Знание своих прав — это не привилегия, а необходимость. ФЗ № 323 закрепляет за медработниками право на безопасные условия труда и защиту профессиональной чести.",
+      name: "Леонтьев О.В.",
+      company: "«Правоведение для медицинских вузов», СПб., 2010",
+      image: "/professional-woman-avatar-with-short-brown-hair-an.jpg",
     },
     {
       quote:
-        "Бриллиант революционизировал работу с индивидуальными контрактами. Автоматизация экономит нам часы каждую неделю и полностью исключает ошибки.",
-      name: "Сергей Иванов",
-      company: "Директор по операциям, DataFlow",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20Sep%2011%2C%202025%2C%2010_54_18%20AM-nbiecp92QNdTudmCrHr97uekrIPzCP.png",
+        "Врачебная тайна — краеугольный камень доверия между пациентом и врачом. Её соблюдение является одновременно правовой обязанностью и этическим долгом медработника.",
+      name: "Котова К.А., Лисова С.Ю.",
+      company: "«Правоведение», Иваново, 2023",
+      image: "/professional-man-avatar-with-beard-and-glasses-loo.jpg",
     },
     {
       quote:
-        "Автоматизация биллинга — это настоящий прорыв. То, что раньше занимало у команды дни, теперь происходит автоматически с идеальной точностью.",
-      name: "Мария Козлова",
-      company: "Финансовый директор, InnovateCorp",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20Sep%2011%2C%202025%2C%2011_01_05%20AM-TBOe92trRxKn4G5So1m9D2h7LRH4PG.png",
+        "Медицинский работник несёт ответственность не только перед пациентом, но и перед обществом — его деятельность строго регламентирована нормами трудового и уголовного права.",
+      name: "Кленкина О.В., Шиханова Е.Г.",
+      company: "«Правоведение», Самара, 2022",
+      image: "/professional-person-avatar-with-curly-hair-and-war.jpg",
     },
   ];
 
